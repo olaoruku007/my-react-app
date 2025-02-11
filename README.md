@@ -4,7 +4,8 @@ My React app is a basic single-page application (SPA) with the following feature
 Features:
 1. Navigation Bar
 
-Contains links to three pages: Home, About, and Counter.
+   - Contains links to three pages: Home, About, and Counter.
+
 2. Three Pages:
 
    - Home Page (/) → Displays "Welcome to My React App".
