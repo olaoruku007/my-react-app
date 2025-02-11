@@ -31,7 +31,7 @@ Go to the project directory
 
 Install the packages.
 
-    - npm install or npm i
+   - npm install or npm i
 
 Start the Sever.
-    - npm start
+   - npm start
