@@ -27,7 +27,7 @@ Run Locally:
    - git clone https://github.com/olaoruku007/my-react-app.git
 
 Go to the project directory
- cd 
+  - cd my-react-app
 
 Install the packages.
 
