@@ -24,14 +24,14 @@ Authors
 @mikejdaley @pchin @aoruku
 
 Run Locally:
-git clone https://github.com/olaoruku007/my-react-app.git
+   - git clone https://github.com/olaoruku007/my-react-app.git
 
 Go to the project directory
  cd 
 
-Install the packages
+Install the packages.
 
     - npm install or npm i
 
-Start the Sever
+Start the Sever.
     - npm start
