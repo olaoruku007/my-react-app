@@ -35,3 +35,11 @@ Install the packages.
 
 Start the Sever.
    - npm start
+
+How It Works
+ - When you open the app in the browser (http://localhost:3005 or the correct port), the   
+   Home page is displayed.
+
+ - Clicking "About" navigates to /about, and clicking "Counter" navigates to /counter.
+
+ - On the Counter page, clicking the Increment button increases the counter value.
